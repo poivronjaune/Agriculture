@@ -10,6 +10,7 @@ Inventaire de trucs sur l'agriculture idées, bio, technologies, etc...
 |Région|Organisme|Notes|
 |---|---|---|
 |Québec|[Association des producteurs maraichers du Québec](https://apmquebec.com/)|Regroupement de producteurs maraîchers et horticoles du Québec.|
+|Gouvernement du Canada|[Programmes et services agricoles](https://agriculture.canada.ca/fr/programmes)|Filtre sur les diverses subventions|
   
   
 ## Outils  
