@@ -11,9 +11,14 @@
 - (Flax)[https://en.wikipedia.org/wiki/Flax] -> Nutrition (high omega 3)
 - (Stinging Nettle)[#] -> Cook like spinach, it's sting reduces joint arthrisis. Lots of calcium
 - (Good King Henry)[https://en.wikipedia.org/wiki/Blitum_bonus-henricus] -> Poor man's Asparagus (Three part harvest)  
+
 ## Deadly
 - (Lily of the Valley)[https://en.wikipedia.org/wiki/Lily_of_the_valley] Pison that causes heart attack (cardiac glycosides) 
 
+## Food  
+- (Skirret)[https://www.foodforest.garden/2016/01/05/growing-and-eating-skirret/] : Hardy, perennial root vegetable in the carrot family, prized for its clusters of sweet, nutty-flavored white roots that taste like a mix of parsnip, carrot, and potato
+- 
 
 #### Sources  
 (Stellar Eureka)[https://www.youtube.com/watch?v=8bkDteELAmY] : 10 Forgetten Superfoods medieval Farmers Swore By  
+(Medieval Way)[https://www.youtube.com/watch?v=TiF8wggfVBo] : 7 Banned medieval vegetables...  
